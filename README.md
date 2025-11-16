@@ -47,3 +47,5 @@ uses the Met Office HadCRUT.5.0.1.0.analysis.summary_series.global.annual.txt da
 The filenames of the *.m programs are self-explanatory. Each of them contains very detailed annotation and guidance.
 
 The MATLAB R2023a programs generate all graphs for the figures in the main text and online appendix, as well as the necessary ingredients to compile (manually) Table 1.
+
+NOTE (16 November 2025): To be able to upload the zip replication archive, I had to eliminate the bulkiest shp, gph and eps files from the STATA subfolder (about a dozen, each of some 8MB or more). If you need these files for your replication, do let me know (a.mihailov@reading.ac.uk or a_mihailov@hotmail.com or mihailov.alexander@gmail.com), and I can send them by e-mail or Dropbox.
